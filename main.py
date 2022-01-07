@@ -44,14 +44,15 @@ class windows:
             root.resizable(False,False)
             root.configure(bg='white')
             self.info_txt =tk.Label(root,text="""Autore : Pop Mario Denis
-            sopranome : RDA(RedAnonymusITA2)
-            Nome App : GeneratorePassword
-    licenzza : 
+        Nome D'Arte: RDA(RedAnonymusITA2)
+        Nome App : GeneratorePassword
+    licenzza : MIT
     ATTENZI0NE:
             una volta scelto come salvare
-            chudere pagina 
-            (come voi salvare password)
-              per evitare bug
+            chiudere la pagina :
+        (come voi salvare password 
+        e poi anteprima)
+        per evitare bug
     ---------------------------------------------------
 Per altri software clicca sul bottone qui sotto
 
@@ -61,7 +62,7 @@ Per altri software clicca sul bottone qui sotto
                 pass
             self.info_txt.place(x=1,y=2)
             self.bt_altri=tk.Button(root,text='ALTRO',command=other,bg='white',activebackground='white',relief='flat')
-            self.bt_altri.place(x=100,y=190)
+            self.bt_altri.place(x=100,y=210)
             
      
 
