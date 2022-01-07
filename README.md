@@ -1,7 +1,7 @@
 # Generatore_Password
 Generatore Password a random ,supportato per ora solo per linux , facile da usare  e anche gratis . 
 Per scaricare su linux ci sono 2 metodi 
-1 via git clone :
+1 .manuale :
 
     git clone https://github.com/RedAnonymusITA/Generatore_Password.git
            
@@ -19,8 +19,8 @@ o pure
      
 e poi clicca due volte e apri in terminale 
 
-2.
-scarica auto_installer creato da me :
+2.AUTO install 
+scarica auto_installer creato da me devi solo essegure qusti due ne terminale:
 
      git clone https://github.com/RedAnonymusITA/auto_install-GUI.git
      
@@ -30,7 +30,7 @@ dai i permessi :
     chmod +x auto_install.sh
     
 e clicca due volte 
-inserire il numero e cliccare su  invia 
+inserire il numero 3 e cliccare su  invia 
 ATTENZIONE : per la prima volta il generatore si avvia poi per avviare dovete cliccare 2 volte su start.sh
  
  
