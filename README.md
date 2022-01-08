@@ -19,8 +19,8 @@ o pure
      
 e poi clicca due volte e apri in terminale 
 
-2.AUTO install 
-scarica auto_installer creato da me devi solo essegure qusti due ne terminale:
+2.AUTO install :
+scarica auto_installer, creato da me devi solo essegure qusti due passaggi nel terminale:
 
      git clone https://github.com/RedAnonymusITA/auto_install-GUI.git
      
