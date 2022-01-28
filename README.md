@@ -1,4 +1,6 @@
 # Generatore_Password
+![Screenshot_20220129_030528_ok](https://user-images.githubusercontent.com/78427215/151599610-5fc12179-cd4f-4f6a-83d9-ec34acf2d2f6.png)
+
 Generatore Password a random ,supportato per ora solo per linux , facile da usare  e anche gratis . 
 Per scaricare su linux ci sono 2 metodi 
 1 .manuale :
