@@ -7,7 +7,7 @@ Per scaricare su linux ci sono 2 metodi
 
     git clone https://github.com/RedAnonymusITA/Generatore_Password.git
            
-apri cartella Generatore_Password nella cartella dove ha installato :
+apri cartella Generatore_Password nella cartella dove hai installato :
 
     cd Generatore_Password
      
@@ -27,7 +27,7 @@ scarica auto_installer, creato da me devi solo essegure qusti due passaggi nel t
      git clone https://github.com/RedAnonymusITA/auto_install-GUI.git
      
 apri cartella auto_install-GUI e poi auto_install ,
-dai i permessi :
+dai i permessi (apri il terminale dove il file si trova ):
 
     chmod +x auto_install.sh
     
