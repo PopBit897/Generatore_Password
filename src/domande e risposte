@@ -1,0 +1,21 @@
+italy :
+cosè main.py ?
+main.py gestisce tutto quello che vedi e anche genera il password.
+Cosè other.py?
+e una libreria che comunica con il  server  di github per scaricare altri software di proprieta RDAITA2.
+cose ead.py?
+E una libreria di criptazione ed decriptazione crato da RDAITA2 ispirato dall libro di Maurizio Boscani.
+perche si chiamma ead?
+dal inglese encyption and decryptor (ead).
+cose decryptor.py?
+E il software che decripta la password.
+A cosa serve encyption and decryptor se la password gia e sicura ?
+Per dare più sicurezza a coloro che non vogloino che altre persone non lo vedono la loro password ,anche se gia cosi e sicuro.
+A cosa serve password Generatore ?
+Serve creare password più sicuri per la vostra posta eletronica o altri servizi che neccesitano di un log in .
+Che versione è?
+E la versione 0.0.1v-alpha .
+cosa ci sara nella prossima versione ?
+Bhe ci sarano alcuni cambiamenti com es : potete criptare qualsiasi password o testo che volete.
+
+
