@@ -35,6 +35,7 @@ e clicca due volte
 inserire il numero 3 e cliccare su  invia 
 ATTENZIONE : per la prima volta il generatore si avvia poi per avviare dovete cliccare 2 volte su start.sh
  
- 
+o pure clicca su:
+[![Download Generatore_Password](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/generatore-password/files/latest/download)
 
 
